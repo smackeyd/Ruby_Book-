@@ -1,5 +1,6 @@
 arr = [["test", "hello", "world"],["example", "mem"]]
 
-puts arr.last.first
+p arr.last.first 
+p arr.first.last 
 
 #IRB - returns the word "example"
