@@ -2,7 +2,7 @@ def add_three(n)
   n + 3
 end 
 
-add_three(5)
+puts add_three(5)
 
 #The above method will return - not print out, but return - the value passed in incremented by 3
 
