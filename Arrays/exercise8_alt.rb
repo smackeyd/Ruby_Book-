@@ -5,4 +5,4 @@ new_arr = arr.map do |n|
 end
 
 p arr
-p new_arr
+p new_arr # returns a new array 

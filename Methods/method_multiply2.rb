@@ -10,5 +10,6 @@ def subtract(c, d)
   c - d
 end
 
-puts multiply(add(20, 45), subtract(80, 10)) 
-puts add(subtract(80, 10), multiply(subtract(20, 6), add(30, 5)))
+puts multiply(add(20, 45), subtract(80, 10)) # PEMDAS - 65 x 70  
+
+puts add(subtract(80, 10), multiply(subtract(20, 6), add(30, 5))) # 70 + 490 

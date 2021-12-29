@@ -16,4 +16,5 @@ puts movies[:man_of_steel]
 puts movies[:a_beautiful_mind]
 puts movies[:the_evil_dead]
 
-# these are symbols 
+# these are symbols; puts displays their values (year)
+

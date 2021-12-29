@@ -5,3 +5,4 @@ while x < 6
 end
 
 puts y 
+puts x 

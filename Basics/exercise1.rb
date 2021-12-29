@@ -4,3 +4,5 @@ first_name = "Samantha "
 last_name = "MacDonald"
 
 puts first_name + last_name
+
+puts "My name is #{first_name}#{last_name}"

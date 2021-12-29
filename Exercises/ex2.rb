@@ -6,4 +6,4 @@ numbers.each do |number|
   end 
 end 
 
-arr.each { |number| puts number if number > 5 } # shorter way 
+numbers.each { |number| puts number if number > 5 } # shorter way 

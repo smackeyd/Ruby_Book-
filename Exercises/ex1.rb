@@ -4,4 +4,4 @@ numbers.each do |number|
   puts number
 end 
 
-# got this one correct all by myself!!!!
+# got this one correct all by myself!!!! iteration 
